@@ -3,6 +3,8 @@
 This project is a simple **Retrieval-Augmented Generation (RAG)** app built with **Streamlit** and **LangChain**.  
 Users can upload a PDF, ask questions, and get AI-powered answers based on the document.
 
+![image](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*ykFSvJzAtPg8W2GN)
+
 ---
 
 ## 🚀 Features
