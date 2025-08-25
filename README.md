@@ -110,7 +110,7 @@ pdf-rag/
 
 ---
 
-## ✨ Connet with me
-- ![Portfolio](https://sites.google.com/view/abdelrahman-eldaba110)
-- ![LinkedIn](https://www.linkedin.com/in/abdelrahmaneldaba)
-- ![Kaggle](https://www.kaggle.com/abdelrahmanahmed110)
+## ✨ Connect with me
+- 🌐 [Portfolio](https://sites.google.com/view/abdelrahman-eldaba110)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahmaneldaba)
+- 📊 [Kaggle](https://www.kaggle.com/abdelrahmanahmed110)
