@@ -55,7 +55,7 @@ This notebook was developed on **Kaggle** and demonstrates the complete workflow
 ## 📦 Installation
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/pdf-rag.git
+git clone https://github.com/Abdelrahman47-code/basic-rag-app.git
 cd pdf-rag
 ```
 
