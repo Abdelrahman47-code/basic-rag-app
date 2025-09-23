@@ -6,6 +6,7 @@ Users can upload a PDF, ask questions, and get AI-powered answers based on the d
 ![image](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*ykFSvJzAtPg8W2GN)
 
 ---
+---
 
 ## 🚀 Features
 - Upload PDF files
@@ -15,6 +16,17 @@ Users can upload a PDF, ask questions, and get AI-powered answers based on the d
 - Uses Hugging Face models for embeddings and responses
 - Includes a **notebook** (`basic-rag-system.ipynb`) with a step-by-step explanation of the RAG pipeline
 
+---
+---
+
+## 📸 App Demo Images
+![image](images/1.png)
+
+---
+
+![image](images/2.png)
+
+---
 ---
 
 ## 📓 Jupyter Notebook: `basic-rag-system.ipynb`
@@ -52,6 +64,7 @@ This notebook was developed on **Kaggle** and demonstrates the complete workflow
 - Shows a complete **end-to-end pipeline**: PDF → Embeddings → Vector Search → LLM Answer.  
 - Serves as a learning foundation before deploying the **Streamlit App**.  
 
+---
 ---
 
 ## 📦 Installation
@@ -91,6 +104,7 @@ streamlit run app.py
 ```
 
 ---
+---
 
 ## 📂 Project Structure
 ```
@@ -103,6 +117,7 @@ pdf-rag/
 ```
 
 ---
+---
 
 ## 🙌 Acknowledgments
 - [LangChain](https://www.langchain.com/)
@@ -110,6 +125,7 @@ pdf-rag/
 - [Hugging Face](https://huggingface.co/)
 - [Kaggle](https://www.kaggle.com/) for hosting the notebook
 
+---
 ---
 
 ## ✨ Connect with me
